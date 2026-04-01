@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OptiScan</string>
+    <string name="menu_config">Configurar servidor</string>
+    <string name="dialog_title">Configurar servidor</string>
+    <string name="dialog_hint">Ej: 192.168.1.100</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_retry">Reintentar</string>
+    <string name="btn_config_ip">Configurar IP</string>
+    <string name="error_cannot_connect">No se pudo conectar a:</string>
+</resources>
